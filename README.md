@@ -1,4 +1,5 @@
 # comp2900
-Data structure __Estructura de Datos__
-_Author: Yenielg_
+Curso __Estructura de Datos__
+
+_Autor: Yenielg_
 
