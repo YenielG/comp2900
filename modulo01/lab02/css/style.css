@@ -1,0 +1,14 @@
+h1 {
+    color: blueviolet;
+    background-color: black;
+}
+body{
+    color: brown;
+    background-color: azure;
+    padding: 20px;
+    border: 4px dotted greenyellow;
+}
+p{
+    background-color:yellow;
+    padding: 20px;
+}
