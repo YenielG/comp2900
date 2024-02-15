@@ -1,5 +1,5 @@
 # comp3015
-Curso __Programacion Web con Base de Datos__
+Curso __Programacion Estructurada__
 
 _Autor: Yenielg_
 
