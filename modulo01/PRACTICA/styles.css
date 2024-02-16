@@ -1,0 +1,14 @@
+header{
+    padding: 52px;
+    border: color(srgb red green blue);
+}
+h1{
+    border: 45px;
+    color: white;
+    background: rgb(27, 35, 56);
+    box-shadow: 23px color black ;
+}
+body{
+    
+    background-color: brown;
+}
