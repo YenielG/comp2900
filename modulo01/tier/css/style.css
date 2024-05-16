@@ -1,0 +1,39 @@
+/* Estilos para los botones #addTier y #removeTier */
+#addTier,
+#removeTier {
+    margin: 10px;
+}
+
+/* Estilos para los elementos con clase .tier */
+.tier {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 4px;
+    border: 1px solid rgb(4, 0, 255);
+}
+
+/* Estilos para la lista de imágenes */
+.image-list {
+    display: flex;
+    overflow-x: auto;
+    padding: 10px;
+    min-height: 120px; /* Altura mínima para la lista de imágenes */
+}
+
+/* Estilos para las imágenes dentro de la lista */
+.image-list img {
+    height: 150px;
+    width: auto;
+    margin-right: 10px;
+    cursor: pointer;
+    object-fit: cover;
+}
+
+/* Estilos para el elemento con clase .ui-state-highlight (resaltado de jQuery UI) */
+.ui-state-highlight {
+    height: 100px;
+    width: 100px;
+    background-color: #000000;
+    border: 1px dashed #36363b;
+}
